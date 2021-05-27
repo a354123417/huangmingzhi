@@ -5,10 +5,15 @@ title: 黄明志 namewee
 
 ## MV (横6个)
 [黃明志Namewee feat. 王力宏 Leehom Wang【漂向北方 Stranger In The North 】@CROSSOVER ASIA 2017亞洲通車專輯](https://www.youtube.com/watch?v=qIF8xvSA0Gw)
+
 [黃明志【東京盆踊りTokyo Bon 2020】Ft. 二宮芽生 & Cool Japan TV @亞洲通吃 2018 All Eat Asia](https://www.youtube.com/watch?v=zhGnuWwpNxI)
+
 [洗腦神曲【好想你】四葉草 @RED People](https://www.youtube.com/watch?v=fdQgPu3iUYk)
+
 [黃明志 Ft. 鄧紫棋【漂向北方】KTV 包廂版 @2017](https://www.youtube.com/watch?v=YJSpGXxkCqE)
+
 [黃明志泰國情哥Part 3!【泰國恰恰】Ft. Bie The Ska บี้เดอะสกา @亞洲通吃 2017 All Eat Asia](https://www.youtube.com/watch?v=YaZ5eV9BEX8)
+
 [黃明志用中文唱泰語【泰國情哥】@亞洲通緝 2013 Asia Most Wanted](https://www.youtube.com/watch?v=SwZMS-ISbH4)
 <ul class="post-list">
     {% for article in site.articles %}
@@ -46,6 +51,9 @@ title: 黄明志 namewee
 </ul>
 
 ## 电影 (横3?个)
+[黃明志電影 你是豬 (2020) MOVIE Babi]()
+[黃明志電影 鬼老大哥大 (2012) MOVIE Hantu Gangster]()
+[黃明志電影 辣死你媽 (2011) MOVIE Nasi Lemak 2.0]()
 
 ## 图片 ()
 
