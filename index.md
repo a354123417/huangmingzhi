@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 黄明志 namewee
 ---
 
 ## MV (横6个)
