@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# 黄明志
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
