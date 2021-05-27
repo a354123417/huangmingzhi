@@ -49,9 +49,11 @@ title: 黄明志 namewee
 </ul>
 
 ## 电影 (横3?个)
-[黃明志電影 你是豬 (2020) MOVIE Babi]()
-[黃明志電影 鬼老大哥大 (2012) MOVIE Hantu Gangster]()
-[黃明志電影 辣死你媽 (2011) MOVIE Nasi Lemak 2.0]()
+<ul>
+    <li>[黃明志電影 你是豬 (2020) MOVIE Babi]()</li>
+    <li>[黃明志電影 鬼老大哥大 (2012) MOVIE Hantu Gangster]()</li>
+    <li>[黃明志電影 辣死你媽 (2011) MOVIE Nasi Lemak 2.0]()</li>
+</ul>
 
 ## 图片 ()
 
