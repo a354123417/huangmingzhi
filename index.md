@@ -2,6 +2,7 @@
 layout: default
 ---
 
+## MV (横6个)
 <ul class="post-list">
     {% for article in site.articles %}
       <li>
@@ -19,6 +20,7 @@ layout: default
     {% endfor %}
 </ul>
 
+## 文章 (左右两列 每列6个)
 <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -35,6 +37,10 @@ layout: default
       </li>
     {% endfor %}
 </ul>
+
+## 电影 (横3?个)
+
+## 图片 ()
 
 [关于](./pages/about.html).
 
