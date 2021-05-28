@@ -2,5 +2,9 @@
 <script>
   $(function() {
     console.log('hello');
+    
+    $.get('./person.json', function(ret) {
+      console.log(ret);
+    });
   });
 </script>
